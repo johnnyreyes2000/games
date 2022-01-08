@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gamezone/static/css/main.bef9be39.chunk.css",
+    "main.js": "/gamezone/static/js/main.79ef61cc.chunk.js",
+    "main.js.map": "/gamezone/static/js/main.79ef61cc.chunk.js.map",
+    "runtime-main.js": "/gamezone/static/js/runtime-main.a5ec7f9c.js",
+    "runtime-main.js.map": "/gamezone/static/js/runtime-main.a5ec7f9c.js.map",
+    "static/js/2.61c16d35.chunk.js": "/gamezone/static/js/2.61c16d35.chunk.js",
+    "static/js/2.61c16d35.chunk.js.map": "/gamezone/static/js/2.61c16d35.chunk.js.map",
+    "index.html": "/gamezone/index.html",
+    "precache-manifest.9372c67b7aa99f3058268d2ca599c38b.js": "/gamezone/precache-manifest.9372c67b7aa99f3058268d2ca599c38b.js",
+    "service-worker.js": "/gamezone/service-worker.js",
+    "static/css/main.bef9be39.chunk.css.map": "/gamezone/static/css/main.bef9be39.chunk.css.map",
+    "static/js/2.61c16d35.chunk.js.LICENSE.txt": "/gamezone/static/js/2.61c16d35.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/gamezone/static/media/ACcampus.2832e303.jpg",
+    "static/media/acsat.png": "/gamezone/static/media/acsat.f14a7a50.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5ec7f9c.js",
+    "static/js/2.61c16d35.chunk.js",
+    "static/css/main.bef9be39.chunk.css",
+    "static/js/main.79ef61cc.chunk.js"
+  ]
+}
